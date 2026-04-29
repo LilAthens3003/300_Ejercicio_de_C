@@ -1,2 +1,2 @@
-# 300 de Ejercicio de lenguaje C
+# 300-Ejercicio-de-C
 
