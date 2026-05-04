@@ -85,7 +85,7 @@ switch(op){
             break;
         case 0:
             printf("\nNinguno de los numeros es divisible por el otro.\n");
-            break;  
+            break;  //TEXTO 2
     }
 	
 	return 0;
